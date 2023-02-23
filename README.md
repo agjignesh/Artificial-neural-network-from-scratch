@@ -6,7 +6,7 @@ In this there is one ANN.py file which is the brain and contains all the code fo
 
 Then there is the XOR.py and Mnsit.py file which creates a neural network of diffrent archtechures according to there use and use them to solve the XOR and hand written numbers classification problem. 
 
-# Use this link to play with the AI using the link bellow
+# Play with the AI using the link bellow
 https://colab.research.google.com/drive/1bBnvLmXUAJUi8_atvFomfWPN6P4MVqzt?usp=sharing
 
 ## steps to use the colab file
