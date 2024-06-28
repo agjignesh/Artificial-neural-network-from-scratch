@@ -1,4 +1,4 @@
-#Explore the implementation of various machine learning algorithms from scratch
+# Explore the implementation of various machine learning algorithms from scratch
 1. Linear Regression
 2. Logistic Regressio
 3. SVM
