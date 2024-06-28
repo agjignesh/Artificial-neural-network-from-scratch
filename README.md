@@ -17,3 +17,6 @@ https://colab.research.google.com/drive/1bBnvLmXUAJUi8_atvFomfWPN6P4MVqzt?usp=sh
 
 ## steps to use the colab file
 First Run all the cells in a sequential order once the model is trained to a 100% you can test the model in the play ground section
+
+## You can view the other algorithms in the other .ipynb files
+
