@@ -1,3 +1,9 @@
+#Explore the implementation of various machine learning algorithms from scratch
+1. Linear Regression
+2. Logistic Regressio
+3. SVM
+4. Gradient Boosted trees
+
 # Artificial-neural-network-from-scratch
 In this I have created an Artificial neural model from scratch which can be used to create various types of Neural network architectures
 
